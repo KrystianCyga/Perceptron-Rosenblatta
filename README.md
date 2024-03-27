@@ -1,5 +1,5 @@
 Sprawozdanie zawiera:
-• Krótki opis problemu \n
+• Krótki opis problemu
 • Opis zaimplementowanych funkcji
 • Opis zaimplementowanych zmiennych i stałych
 • Wykresy błędu MSE 
